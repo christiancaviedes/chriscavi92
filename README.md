@@ -29,7 +29,7 @@ Methodologies: Agile, CI/CD, Microservices Architecture.
 
 📫 Let's Connect!
 
-LinkedIn
+LinkedIn: https://www.linkedin.com/in/christiancaviedes/
 Email: christiancaviedes@gmail.com
 
 Feel free to explore my repositories and connect! Let’s collaborate to build impactful solutions and share knowledge with the developer community. 🚀
