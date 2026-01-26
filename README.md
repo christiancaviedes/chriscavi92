@@ -11,11 +11,7 @@ Migration projects (e.g., Azure and Oracle Cloud).
 AI/ML platform integration.
 Delivering impactful solutions in e-commerce, supply chain, and marketing tech.
 📊 Data-Driven: Known for delivering measurable results that align with business goals.
-🎯 Core Achievements
 
-🚀 Amazon: Successfully launched the L’Oréal Lux program, unlocking $700M in annual entitlement and earning recognition from CEO Andy Jassy.
-🌐 LexisNexis: Spearheaded microservices-based projects with Kubernetes and Angular, enhancing user experiences.
-📈 Office Depot: Migrated finance and supply chain systems to Oracle Cloud, modernizing operations.
 💡 What You'll Find Here
 
 ✨ Project Repositories: Showcasing tools, utilities, and initiatives aligned with my work and learning journey.
