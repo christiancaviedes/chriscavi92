@@ -1,31 +1,29 @@
-👋 Hi, I'm Christian Caviedes!
+# Christian Caviedes
 
-🌟 Welcome to my GitHub profile! I'm a passionate Technical Program Manager with extensive experience leading large-scale software development initiatives, integrating cutting-edge AI/ML platforms, and driving impactful transformation projects. My goal is to align technical roadmaps with organizational objectives to deliver meaningful, data-driven solutions.
+Technical program leader focused on AI platforms, LLM products, product systems, and execution at enterprise scale.
 
-🚀 What I Do
+## What I work on
+- AI-powered program and product operations
+- LLM evaluation frameworks for product teams
+- roadmap and prioritization systems
+- workflow automation for technical delivery
+- practical tooling that reduces ambiguity for cross-functional teams
 
-💼 Current Focus: Driving organizational growth and efficiency through strategic technical programs and collaboration.
-🔧 Key Expertise:
-Leading complex cross-functional projects with a focus on execution excellence.
-Migration projects (e.g., Azure and Oracle Cloud).
-AI/ML platform integration.
-Delivering impactful solutions in e-commerce, supply chain, and marketing tech.
-📊 Data-Driven: Known for delivering measurable results that align with business goals.
+## Featured repositories
+- **agentic-program-ops** — AI-powered program operations for PRDs, roadmaps, dependencies, and executive summaries
+- **user-driven-roadmap** — prototype-driven roadmap system grounded in user signals and prioritization logic
+- **llm-evals-for-product-teams** — practical eval framework for teams shipping LLM features
+- **claude-obsidian-second-brain** — transforms Claude exports into a searchable Obsidian knowledge system
+- **ai-release-notes-generator** — AI workflow for generating useful release notes
+- **standup-from-git** — developer workflow automation for status updates
 
-💡 What You'll Find Here
+## Focus areas
+- Generative AI
+- AI product systems
+- Technical Program Management
+- Product Strategy
+- Agentic workflows
+- Evaluation and quality systems
 
-✨ Project Repositories: Showcasing tools, utilities, and initiatives aligned with my work and learning journey.
-📘 Learning Resources: Logs, cheat sheets, and templates to help fellow developers.
-🤝 Open Source Contributions: Actively contributing to tools and frameworks that make development easier.
-🛠 Tech Stack
-
-Languages & Frameworks: Python, Java, Spring Boot, Angular, React.
-Platforms: AWS, Azure, Kubernetes, Docker, Oracle Cloud.
-Methodologies: Agile, CI/CD, Microservices Architecture.
-
-📫 Let's Connect!
-
-LinkedIn: https://www.linkedin.com/in/christiancaviedes/
-Email: christiancaviedes@gmail.com
-
-Feel free to explore my repositories and connect! Let’s collaborate to build impactful solutions and share knowledge with the developer community. 🚀
+## Why this profile exists
+I build systems and artifacts that sit at the intersection of product judgment, technical execution, and AI leverage.
